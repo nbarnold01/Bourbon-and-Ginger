@@ -1,0 +1,15 @@
+body {
+    background-color: linen;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+}
+
+.main-content {
+  width:500px;
+  padding: 20px;
+  border:1px solid #444444;
+  margin: 30px auto 0 auto;
+}
